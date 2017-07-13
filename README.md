@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 勤而好学，乐而忘忧，不知老之将至。
 
 You can use the [editor on GitHub](https://github.com/sk-slark/sk_slark.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
